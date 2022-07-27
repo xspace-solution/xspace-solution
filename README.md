@@ -1,9 +1,8 @@
-###  Full Stack Developer | Django | React | Node.js | Vue | Laravel
+#  Full Stack Developer | Django | React | Node.js | Vue | Laravel
 ## Hi, I am Kato Chojiro! 👋
 
 
-<h2 align="left" id="macropower-tech">💻Tech Stack</h2>
-<h3 align="center">I'm a Senior Full Stack Developer.</h3>
+### 💻Tech Stack
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <br><br>
