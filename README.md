@@ -1,7 +1,6 @@
 #  Full Stack Developer | Django | React | Node.js | Vue | Laravel
 ## Hi, I am Kato Chojiro! 👋
 
-
 ### 💻Tech Stack
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
@@ -12,7 +11,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=katochojiro&column=8)](https://github-profile-trophy.vercel.app/?username=katochojiro&column=8)
 
  <br>
 
@@ -89,25 +88,25 @@
 
 > GitHub Profile Status
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=K-0817&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K-0817&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+    <img src="https://github-readme-stats.vercel.app/api?username=katochojiro&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katochojiro&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
 
 <br />
 
 > GitHub Activity Graph
 <!-- https://github.com/K-0817/github-readme-activity-graph -->
-<a href="https://github.com/K-0817/K-0817"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=K-0817&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/K-0817/K-0817"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=katochojiro&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
 <p align="right">
   <a href="https://github.com/K-0817?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/K-0817"/></a>
-  <a href="https://github.com/K-0817?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/K-0817?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/K-0817">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=K-0817&style=for-the-badge"/></a>
+  <a href="https://github.com/katochojiro?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/katochojiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/katochojiro">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=katochojiro&style=for-the-badge"/></a>
 </p>
 
 <br />
