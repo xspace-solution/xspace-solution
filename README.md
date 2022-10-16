@@ -110,14 +110,3 @@
 </p>
 
 <br />
-
-> GitHub Visitors Count
-
-<p align="center">
-    <img 
-      alt="snake animation"
-      title="Snake Animation" 
-      src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks!&fontAlign=80&fontAlignY=40&color=gradient" 
-      width="100%" 
-    />
-</p>
