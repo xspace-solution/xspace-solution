@@ -1,5 +1,5 @@
 #  Full Stack Developer | Django | React | Node.js | Vue | Laravel
-## Hi, I am Kato Chojiro! 👋
+## Hi, I am Kato Chojiro! 👋 and I am a Passionate Full Stack Developer
 
 ### 💻Tech Stack
 <p align="center">
