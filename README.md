@@ -1,4 +1,4 @@
-#  Full Stack Developer | Django | React | Node.js | Vue | Laravel
+#  Full Stack Developer
 ## Hi, I am Kato Chojiro! 👋 and I am a Passionate Full Stack Developer
 
 ### 💻Tech Stack
@@ -95,14 +95,14 @@
 <br />
 
 > GitHub Activity Graph
-<!-- https://github.com/K-0817/github-readme-activity-graph -->
-<a href="https://github.com/K-0817/K-0817"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=katochojiro&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<!-- https://github.com/katochojiro/github-readme-activity-graph -->
+<a href="https://github.com/katochojiro/katochojiro"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=katochojiro&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
 <p align="right">
   <a href="https://github.com/katochojiro?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/K-0817"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/katochojiro"/></a>
   <a href="https://github.com/katochojiro?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/katochojiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/katochojiro">
