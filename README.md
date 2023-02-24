@@ -1,9 +1,9 @@
 # 👋, I'm Kato Chojiro 
 ## Passionate Full Stack Developer
-Passionate Full-Stack Developer with 7+ years of hands-on experience in developing scalable and maintainable websites and applications using a wide range of front-end and back-end skills like React, Django, Node.js/Express, TypeScript, Vue, Laravel and GraphQL/Apollo.
-Having experience with both front-end and back-end as Full-Stack Developer, I always focus on providing efficient solutions based on the keen attention to what needs to be done, implementing best practices and guidelines.
-I enjoy learning new tools and technology that gets the job done well for my clients and I always focus on providing quality, satisfaction and cost-effective result within strict deadline.
-Looking to further enhance Nest, Vue, Django, GraphQL and BlockChain skills as the featured full stack developer.
+<p>Passionate Full-Stack Developer with 7+ years of hands-on experience in developing scalable and maintainable websites and applications using a wide range of front-end and back-end skills like React, Django, Node.js/Express, TypeScript, Vue, Laravel and GraphQL/Apollo.</p>
+<p>Having experience with both front-end and back-end as Full-Stack Developer, I always focus on providing efficient solutions based on the keen attention to what needs to be done, implementing best practices and guidelines.</p>
+<p>I enjoy learning new tools and technology that gets the job done well for my clients and I always focus on providing quality, satisfaction and cost-effective result within strict deadline.</p>
+<p>Looking to further enhance Nest, Vue, Django, GraphQL and BlockChain skills as the featured full stack developer.</p>
 
 ### Glade to see you here
 <img src="https://komarev.com/ghpvc/?username=katochojiro&label=Profile%20views&color=0e75b6&style=flat" alt="katochojiro" />
@@ -14,7 +14,7 @@ Looking to further enhance Nest, Vue, Django, GraphQL and BlockChain skills as t
 ## My Github Stats
 <div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
 <img  align="center" style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=katochojiro&show_icons=true&locale=en&layout=compact"  alt="katochojiro" />
-<img  align="center" style="width: 52%;" src="https://github-readme-stats.vercel.app/api?username=katochojiro&show_icons=true&locale=en"  alt="katochojiro" />
+<img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=katochojiro&show_icons=true&locale=en"  alt="katochojiro" />
 </div>
 
 ## Connect with me
